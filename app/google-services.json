@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772667390955",
+    "project_id": "bdsprint3",
+    "storage_bucket": "bdsprint3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772667390955:android:4c41e67a31d8cf6d7177ae",
+        "android_client_info": {
+          "package_name": "com.example.sprint3dc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772667390955-htk49881dt9lu4581bji7a67omhfbqvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6rnPygVxvrhg2cAgVNAakNz1-0Ech1m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772667390955-htk49881dt9lu4581bji7a67omhfbqvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
